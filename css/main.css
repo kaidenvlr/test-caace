@@ -1145,43 +1145,47 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 350px;
+    height: 150px;
 }
 
 .news-img2 {
     padding: 0 50px;
     background-image: url('../images/team/team-2.jpg'); 
     background-size: 250px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 350px;
+    height: 150px;
 }
 
 .news-img3 {
     margin: 0 25px;
     background-image: url('../images/team/team-3.jpg');
     background-size: 250px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 350px;
+    height: 150px;
 }
 
 .news-img4 {
     margin: 0 25px;
     background-image: url('../images/team/team-4.jpg');
     background-size: 250px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 350px;
+    height: 150px;
 }
 
 .news-img5 {
     margin: 0 25px;
     background-image: url('../images/team/team-5.jpg');
     background-size: 250px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 350px;
+    height: 150px;
 }
 
 .news-card-wrap {
@@ -1194,7 +1198,7 @@ body {
     padding: 70px 15px;
     border-radius: 30px;
     filter: drop-shadow(0 6px 30px rgba(0, 72, 90, 0.4));
-    height: 800px;
+    height: 600px;
     justify-content: center;
 
 }
